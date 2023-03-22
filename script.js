@@ -7,6 +7,9 @@ const person = {
 
 const team = players;
 console.log(players , team);
+
+const team1 = players;
+console.log(players , team1);
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 
